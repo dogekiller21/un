@@ -144,16 +144,7 @@ def inp():
         else:
             print('3 values expected (or sin/cos/tg *value*)')
 
+
 #Бесконечный цикл основной функции
 while True:
     inp()
-
-
-
-
-
-
-
-
-
-    #dsadasdsad
