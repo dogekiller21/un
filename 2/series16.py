@@ -12,6 +12,3 @@ for i in range(len(a)):
         b = a[i]
 
 print(b)
-
-
-
